@@ -1,16 +1,14 @@
-Family Travel Tracker
-This website is a travel tracker that allows to add another family/user with its preferred color that will highlight the country in the globe/map of said choice. It saves the users data to PostgreSQL database.
+Blog API Project
+This website can add, edit and delete a blog post. Build an own API for this project.
 
 Prerequisites
 Node.js installed on your system
-PostgreSQL database installed and running
 pg Node.js package installed
 Express Node.js package installed
 body-parser Node.js package installed
 
 Features
 CRUD Methods used.
-Saves to PostgreSQL.
 
 Development
 Fork this repository to your GitHub account.
